@@ -1,6 +1,4 @@
-﻿using Newtonsoft.Json;
-
-namespace CluedIn.ExternalSearch.Providers.FacebookGraph.Model
+﻿namespace CluedIn.ExternalSearch.Providers.FacebookGraph.Model
 {
     public class Android
     {
